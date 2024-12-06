@@ -1,0 +1,12 @@
+// How do arrow functions differ from function expressions in terms of scope and this behavior? Provide an example.
+
+/* 
+function expressions are a way of writing functions by assigning it to the varaible and calling the function by that function name,
+this function also called anonymous function. in F.E scopes are normally working like block scope, function scope for var, let, const,
+F.E has their own this keyword unlike arrow, this in F.E represents window obj
+
+Arrow Functions are also one of the way of writing functions introuduced in es6, the difference between F.E and arrow functions is arrow functiosn don't have their own this keyword.
+so it uses its parents this keyword like window object.
+
+
+*/

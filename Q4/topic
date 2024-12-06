@@ -1,0 +1,9 @@
+// Discuss the pros and cons of arrow functions vs. regular functions when used as methods.
+
+/* 
+regular functions are hoisted unlike function expressions and arrow functions and also normal functions have their own this. syntax is somewhat is large compared to arrow functions.
+
+arrow functions are similar to functions in very easy form, this are used for writing functiosn but with easy syntax and takign smaller decisions. aroow functiosn don't have theri own,
+this keyword.
+
+*/

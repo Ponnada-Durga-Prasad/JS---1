@@ -1,0 +1,8 @@
+// How does this behave differently in the global execution context compared to FEC?
+
+/* 
+
+this actually represents parent object or any parent , if we use this in global scope i think it will point to window object
+because window object is the parent of everything.
+
+*/

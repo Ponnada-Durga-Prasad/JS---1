@@ -1,0 +1,12 @@
+// Compare and contrast the behavior of dynamic typing in JavaScript with the type coercion mechanism. Provide an example demonstrating both.
+
+/* 
+static tying refers to the mentioning the type of variables while writing programs, this avoid variable type error and type coercion errors.
+dynamic typing refers to the programming languge will implicitly assign the type to variable based on value assigned to it. here, 
+dyanmic typing leads typing errors, but it also leads to simplicitly without caring about types
+
+dynamic typing : let a = 10;
+ 
+static typing :   let name : string = "Durga Prasad";
+
+*/

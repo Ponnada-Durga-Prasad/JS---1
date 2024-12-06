@@ -1,0 +1,13 @@
+// Discuss how type coercion differs in equality checks (== vs. ===). Provide an example.
+
+/* 
+== (loose equality) this is a comparison operator used to check whether both values are equal or not without checking type.
+
+=== (strict equality) this is comparison operator which checks whether two values are equal or not after performing type coercion.
+implicitly by js engine
+
+if( 5 == "5") // true, 
+
+if(5 === "5") // false
+
+*/

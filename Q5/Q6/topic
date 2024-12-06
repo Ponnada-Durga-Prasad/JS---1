@@ -1,0 +1,10 @@
+// Discuss how closures can simulate encapsulation. Provide an example.
+
+/* 
+
+Encapsulation means hiding implementation and unncessary details, and showing what it actually performs,
+
+closures also hides the implementation of the functions which are returned by closures, because we can't directly
+call them using their name.
+
+*/
